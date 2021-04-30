@@ -40,7 +40,10 @@ html{
     background: white;  /* fallback for old browsers */
 	min-height: 100%;
 }
+
 body{
     max-width: 1024px;
     margin: auto;
 }
+
+
